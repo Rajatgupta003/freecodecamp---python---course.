@@ -5,4 +5,9 @@ A collection of practice projects, workshops and labs completed during the freeC
 1. Report Card Printer
 2. Employee Profile Generator
 3. Bill splitter
+4. Apply Discount
+5. Movie Ticket Booking Calculator
+6. RPG Character Generation
+7. Caesar Cipher
+8. Travel Planner
    
