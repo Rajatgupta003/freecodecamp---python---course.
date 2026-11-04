@@ -11,4 +11,5 @@ A collection of practice projects, workshops and labs completed during the freeC
 7. Caesar Cipher
 8. Travel Planner
 9. Kitchen Inventory Tracker
+10. Employee Profile Validator
    
