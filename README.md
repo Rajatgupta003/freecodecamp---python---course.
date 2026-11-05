@@ -12,4 +12,5 @@ A collection of practice projects, workshops and labs completed during the freeC
 8. Travel Planner
 9. Kitchen Inventory Tracker
 10. Employee Profile Validator
+11. PIN Extractor
    
